@@ -17,7 +17,7 @@
   
 A Data Scientist with strong skills in Python, SQL, data preprocessing, and model building.  
 Hands-on experience in developing real-world ML projects, including a RAG-based chatbot and churn prediction model.  
-Seeking an entry-level role as a Data Scientist ML/AI to apply data-driven problem-solving in real business scenarios.
+Seeking an entry-level role as a Data Scientist & ML/AI to apply data-driven problem-solving in real business scenarios.
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sabuj-karmakar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karmakarsabuj661@gmail.com) 
