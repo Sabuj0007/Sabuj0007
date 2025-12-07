@@ -12,16 +12,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:01000F,100:00FFF0&height=3&section=header"/>
 </p>
 
-<h1 style="color:#00FFF0; text-shadow: 0 0 10px #00FFF0, 0 0 20px #00D9FF, 0 0 30px #00AFFF;">
-  ⚡ About Me:
-</h1>
+<!-- 🌟 About Me (Neon Style) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/⚡%20About%20Me-00F5FF?style=for-the-badge&labelColor=000000" />
+</p>
 
-<p style="color:#D9FFFF; font-size:16px; line-height:1.6;
-text-shadow: 0 0 6px #00FFF0;">
-A Machine Learning Engineer with strong skills in Python, SQL, data preprocessing, and model building.  
+A Data Scientist with strong skills in Python, SQL, data preprocessing, and model building.  
 Hands-on experience in developing real-world ML projects, including a RAG-based chatbot and churn prediction model.  
 Seeking an entry-level role in ML/AI to apply data-driven problem-solving in real business scenarios.
-</p>
+
 
 
 
