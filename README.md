@@ -12,7 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:01000F,100:00FFF0&height=3&section=header"/>
 </p>
 
-  # About Me:
+# About Me :
 <p align="center">
   
 A Data Scientist with strong skills in Python, SQL, data preprocessing, and model building.  
