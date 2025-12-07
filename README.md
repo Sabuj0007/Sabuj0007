@@ -13,12 +13,13 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/⚡%20ABOUT%20ME-00E5FF?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFF0&height=70&section=header&text=⚡%20About%20Me&fontSize=32&fontColor=000000" />
 </p>
 
-A Data Scientist with strong skills in Python, SQL, data preprocessing, and model building.  
+A Machine Learning Engineer with strong skills in Python, SQL, data preprocessing, and model building.  
 Hands-on experience in developing real-world ML projects, including a RAG-based chatbot and churn prediction model.  
-Seeking an entry-level role as a Data Scientist ML/AI to apply data-driven problem-solving in real business scenarios.
+Seeking an entry-level role in ML/AI to apply data-driven problem-solving in real business scenarios.
+
 
 
  
