@@ -12,14 +12,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:01000F,100:00FFF0&height=3&section=header"/>
 </p>
 
-<!-- 🌟 About Me (Neon Style) -->
 <p align="left">
-  <img src="https://img.shields.io/badge/⚡%20About%20Me-00F5FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚡%20ABOUT%20ME-00E5FF?style=for-the-badge&logoColor=white&labelColor=000000" />
 </p>
 
 A Data Scientist with strong skills in Python, SQL, data preprocessing, and model building.  
 Hands-on experience in developing real-world ML projects, including a RAG-based chatbot and churn prediction model.  
-Seeking an entry-level role as a Data Scientist & ML/AI to apply data-driven problem-solving in real business scenarios.
+Seeking an entry-level role as a Data Scientist ML/AI to apply data-driven problem-solving in real business scenarios.
+
 
  
 
