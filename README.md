@@ -8,7 +8,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sabuj+Karmakar;Machine+Learning+Engineer;AI+%26+ML+Enthusiast;Building+RAG+Systems+%26+ML+Pipelines"
-    alt="Typing SVG."
+    alt="Typing SVG"
   />
 </p>
 
@@ -20,7 +20,7 @@
 <!--       CYBER INTRO           -->
 <!-- =========================== -->
 
-<h1 align="center">⚡ Sabuj Karmakar | data scientist</h1>
+<h1 align="center">⚡ Sabuj Karmakar | Data scientist</h1>
 
 <p align="center">
   <em>
