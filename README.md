@@ -1,172 +1,136 @@
-<!--
-  SABUJ KARMAKAR - Cyberpunk Themed GitHub Profile
--->
-
 <!-- =========================== -->
-<!--      NEON HERO BANNER       -->
+<!--        NEON HERO BANNER     -->
 <!-- =========================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sabuj+Karmakar;Machine+Learning+Engineer;AI+%26+ML+Enthusiast;Building+RAG+Systems+%26+ML+Pipelines"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sabuj+Karmakar;Machine+Learning+Engineer;AI+%26+ML+Developer;RAG+Systems+%7C+NLP+%7C+Vector+Search" 
     alt="Typing SVG"
-  />
+/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:01000F,100:00FFF0&height=3&section=header&reversal=true"/>
-</p>
-
-<!-- =========================== -->
-<!--       CYBER INTRO           -->
-<!-- =========================== -->
-
-<h1 align="center">⚡ Sabuj Karmakar | Data scientist</h1>
-
-<p align="center">
-  <em>
-    Turning data into intelligence · Crafting RAG chatbots · Deploying ML to the real world
-  </em>
-</p>
-
-<p align="center">
-  <b>West Bengal, India · Machine Learning · AI · Backend</b>
-</p>
-
-<p align="center">
-  <a href="mailto:karmakarsabuj661@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/sabuj-karmakar">LinkedIn</a> ·
-  <a href="https://github.com/Sabuj0007">GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:01000F,100:00FFF0&height=3&section=header"/>
 </p>
 
 ---
 
-## 🧠 About Me
+# 👋 Hi, I'm **Sabuj Karmakar**
+### 🧠 Machine Learning Engineer | Python Developer | AI Enthusiast  
 
-- 🎓 **B.Sc in Computer Science (2022–2025), Kazi Nazrul University**
-- 🤖 I work with **ML models, RAG, NLP, embeddings, and vector search**
-- 🧩 Love **problem-solving, data analysis, and model building**
-- 🧪 Constantly building projects to sharpen my practical skills in **ML/AI**
-- 🚀 Open to **Machine Learning Engineer / AI Engineer** opportunities
+I build and deploy **real-world machine learning systems**, including  
+✔ RAG Chatbots  
+✔ ML Model Pipelines  
+✔ Vector Search Engines  
+✔ FastAPI Backends  
+✔ Data Analysis Dashboards  
 
----
-
-## 🛠 Tech Stack (Neon Loadout)
-
-### 💻 Languages
-`Python` · `SQL`
-
-### 🤖 Machine Learning / AI
-`Regression` · `Classification` · `PCA` · `RAG` · `Embeddings` · `Vector Search` · `Model Evaluation`
-
-### 📚 Libraries
-`Pandas` · `NumPy` · `Scikit-Learn` · `Matplotlib` · `Seaborn` · `Sentence Transformers`
-
-### 🧰 Tools & Platforms
-`FastAPI` · `Docker` · `Power BI` · `Excel` · `Tableau` · `AWS (Basics)`
-
-### 🧩 Soft Skills
-`Problem-Solving` · `Teamwork` · `Communication` · `Adaptability`
+Based in **West Bengal, India 🇮🇳**  
+Always learning. Always building. Always leveling up. 🚀
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF0,100:7F00FF&height=3&section=header&reversal=true"/>
-</p>
-
-# 📦 Auto-Generated Portfolio Highlights
+# 🛠️ Skills (Colored Badges)
 
 <p align="center">
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabuj0007&theme=tokyonight" width="80%" />
-</p>
 
-<p align="center">
-  <!-- Repos / Activity Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabuj0007&theme=tokyonight" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sabuj0007&theme=tokyonight" width="40%" />
-</p>
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 
----
-
-# 📁 Featured Projects (Collapsible)
-
-<details>
-  <summary><b>🤖 RAG Chatbot – Retrieval-Augmented Generation System</b></summary>
   <br/>
 
-  - Built a **RAG chatbot** using:
-    - 🐍 Python  
-    - ⚙️ FastAPI  
-    - 🧠 Groq Llama 3.1  
-    - 🗂 Qdrant VectorDB  
-    - 🧬 Sentence Transformer embeddings  
-  - Implemented **document chunking** + **top-k vector search** for better contextual recall  
-  - Containerized whole stack with **Docker**  
-  - Created a **simple JavaScript frontend** to display responses + matching chunks  
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression-00A36C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Classification-1A73E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCA-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-8E05C2?style=for-the-badge" />
 
-  🔗 (Add repo link here) → `https://github.com/Sabuj0007/<your-rag-repo>`
+  <br/>
+
+  <!-- NLP / RAG -->
+  <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-DAA520?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq%20LLMs-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Search-1ABC9C?style=for-the-badge" />
+
+  <br/>
+
+  <!-- Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge" />
+
+  <br/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+  <br/>
+
+  <!-- Soft Skills -->
+  <img src="https://img.shields.io/badge/Problem%20Solving-1A73E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-F39C12?style=for-the-badge" />
+
+</p>
+
+---
+
+# 📦 Featured Projects (Collapsible)
+
+<details>
+<summary><b>🤖 RAG Chatbot – AI Document Assistant</b></summary>
+<br/>
+
+- Built using **FastAPI**, **Qdrant**, **Groq Llama 3.1**, **Sentence Transformers**
+- Includes **document chunking**, **vector search**, **top-k recall**
+- Fully containerized with **Docker**
+- Includes a simple **JS front-end**
+
+🔗 Repo: (Add your link)
 </details>
 
 ---
 
 <details>
-  <summary><b>📊 Telecom Customer Churn Analysis</b></summary>
-  <br/>
+<summary><b>📊 Telecom Customer Churn ML Model</b></summary>
+<br/>
 
-  - Performed **EDA** on **7,043+ customer records**  
-  - Applied **data cleaning**, **feature engineering**, and **PCA**  
-  - Trained a **Logistic Regression** model with **80%+ accuracy**  
-  - Visualized key churn drivers using **heatmaps** and **bar charts**  
+- EDA on **7043 customer records**
+- Applied ML pipeline: **cleaning → feature engineering → PCA → LR**
+- Achieved **80%+ accuracy**
+- Visualized insights via **heatmaps & charts**
 
-  🔗 (Add repo link here) → `https://github.com/Sabuj0007/<your-churn-repo>`
+🔗 Repo: (Add your link)
 </details>
 
 ---
 
 <details>
-  <summary><b>📈 Analytics Dashboards & ML Experiments</b></summary>
-  <br/>
+<summary><b>📈 Power BI & Excel Dashboards</b></summary>
+<br/>
 
-  - Built **Excel / Power BI dashboards**  
-  - Used **SQL** for data cleaning, transformations, and insights  
-  - Implemented **classification / regression models** on real datasets  
-  - Practiced **model evaluation** and **PCA** for dimensionality reduction  
+- Created analytics dashboards  
+- Data transformations with SQL  
+- Business intelligence reporting  
 
-  🔗 (Add repo link here) → `https://github.com/Sabuj0007/<your-analytics-repo>`
+🔗 Repo: (Add your link)
 </details>
 
 ---
 
-# 🎥 Lottie Animations (Profile Flair)
-
-> GitHub strips `<script>` tags, so the safest way is to embed Lottie as GIF/MP4 from an external host.
-
-<p align="center">
-  <!-- Replace the src URL with your own GIF/MP4 exported from LottieFiles -->
-  <img src="https://lottie.host/your-lottie-gif-or-mp4-url-here.gif" alt="AI Animation" width="250" />
-</p>
-
-<!--
-Steps:
-1. Go to lottiefiles.com
-2. Pick an animation → Export as GIF/MP4
-3. Host it (or use LottieFiles direct link)
-4. Replace the src above with your URL
--->
-
----
-
-# 🐍 Snake: Contribution Grid Animation
-
-> This image will work once you set up the Snake GitHub Action (Platane/snk or similar).
-
-<p align="center">
-  <img src="https://github.com/Sabuj0007/Sabuj0007/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-# 📈 GitHub Analytics (Neon Mode)
+# 📈 GitHub Analytics (Cyber Theme)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sabuj0007&theme=tokyonight&hide_border=true" width="60%" />
@@ -182,10 +146,13 @@ Steps:
 
 ---
 
-# 🎓 Certifications
+# 🐍 Contribution Snake
 
-- 📊 **Analytics & Visualization (Excel, Power BI, SQL, Python)** – Data Brio Academy  
-- 🤖 **Machine Learning Methods & Models with Python** – Data Brio Academy  
+> Works automatically after enabling the GitHub Action.
+
+<p align="center">
+  <img src="https://github.com/Sabuj0007/Sabuj0007/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -205,12 +172,7 @@ Steps:
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00FFF0&height=3&section=footer&reversal=true"/>
+  <em>“The best way to predict the future is to build it.”</em> ⚡
 </p>
 
-<p align="center">
-  <em>"The best way to predict the future is to build it."</em> ⚡
-</p>
