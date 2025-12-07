@@ -12,10 +12,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:01000F,100:00FFF0&height=3&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFF0&height=70&section=header&text=⚡%20About%20Me&fontSize=32&fontColor=000000" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=1&pause=9999999&color=00FFF0&center=false&vCenter=true&width=450&height=60&lines=⚡+About+Me" />
 </p>
-
 A Data Scientist with strong skills in Python, SQL, data preprocessing, and model building.  
 Hands-on experience in developing real-world ML projects, including a RAG-based chatbot and churn prediction model.  
 Seeking an entry-level role as a Data Scientist ML/AI to apply data-driven problem-solving in real business scenarios.
