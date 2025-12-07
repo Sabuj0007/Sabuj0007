@@ -12,8 +12,17 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:01000F,100:00FFF0&height=3&section=header"/>
 </p>
 
-# 💫 About Me:
-A Data Scientist with strong skills in Python, SQL, data preprocessing, and model building. Hands-on <br>experience in developing real-world ML projects, including a RAG-based chatbot and churn prediction model.<br>Seeking an entry-level role as a Data Scientist & ML/AI to apply data-driven problem-solving in real business scenarios.
+<h1 style="color:#C400FF; text-shadow: 0 0 12px #C400FF, 0 0 25px #9B00FF, 0 0 35px #7A00FF;">
+  ⚡ About Me:
+</h1>
+
+<p style="color:#F5E8FF; font-size:16px; line-height:1.6;
+text-shadow: 0 0 5px #C400FF;">
+A Machine Learning Engineer with strong skills in Python, SQL, data preprocessing, and model building.  
+Hands-on experience in developing real-world ML projects, including a RAG-based chatbot and churn prediction model.  
+Seeking an entry-level role in ML/AI to apply data-driven problem-solving in real business scenarios.
+</p>
+
 
 
 ## 🌐 Socials:
