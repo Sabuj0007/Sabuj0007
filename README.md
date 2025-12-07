@@ -20,7 +20,7 @@
 <!--       CYBER INTRO           -->
 <!-- =========================== -->
 
-<h1 align="center">⚡ Sabuj Karmakar | ML Engineer</h1>
+<h1 align="center">⚡ Sabuj Karmakar | data scientist</h1>
 
 <p align="center">
   <em>
